@@ -50,5 +50,3 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 
 
 
-Cat meows
-BUILD SUCCESSFUL (total time: 0 seconds)
